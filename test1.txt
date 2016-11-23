@@ -1,6 +1,12 @@
 test
 test1
 test2
+<<<<<<< HEAD
 test3 tuikashitayo
 test4 saranituika
 test5 tuikasimasta!! 11/23
+=======
+test3 tuikashitayo
+>>>>>>> parent of 7ffddb0... テスト４ーマージ後に追加
+=======
+test tuika 11/24bun
